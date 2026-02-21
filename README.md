@@ -92,6 +92,10 @@ Predicted diamond price: ₹72000 (example)
 Actual diamond price:      ₹73500
 Error:                   ₹1500
 
+## streamlit app
+https://diam-price-prediction-mxfsrgeuihv7uamwhuj52r.streamlit.app/
+
+
 ## 📌 Conclusion
 
 This project demonstrates the application of supervised machine learning regression techniques to predict continuous values.
